@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: videograph\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-21 07:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: videograph"
+
+#: includes/vg-add-new-video.php:45
+msgid " page."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"<a target=\"_blank\" href=\"https://videograph.ai\">videograph.ai</a> "
+"provides video infrastructure for product builders. Use <a target=\"_blank\" "
+"href=\"https://videograph.ai\">videograph.ai</a> for integrating, scaling, "
+"and managing on-demand & low latency live streaming features in your "
+"WordPress site."
+msgstr ""
+
+#: includes/vg-library.php:196
+msgid "Actions"
+msgstr ""
+
+#: includes/vg-library.php:144
+msgid "Add New"
+msgstr ""
+
+#: videograph.php:73 videograph.php:74
+msgid "Add New Video"
+msgstr ""
+
+#: videograph.php:82 videograph.php:83
+msgid "Create Live Stream"
+msgstr ""
+
+#: includes/vg-library.php:189
+msgid "Created at"
+msgstr ""
+
+#: includes/vg-library.php:193
+msgid "Duration"
+msgstr ""
+
+#: includes/vg-add-new-video.php:44
+msgid ""
+"Error: Invalid Videograph API credentials. Please check your API credentials "
+"in the "
+msgstr ""
+
+#: includes/vg-live-stream-videos.php:10
+msgid "Error: Livestream ID is missing."
+msgstr ""
+
+#: includes/vg-library.php:153
+msgid "Grid view"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/videograph/VideoGrpah_WP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://videograph.ai/"
+msgstr ""
+
+#: includes/vg-library.php:166
+msgid "Items per page"
+msgstr ""
+
+#: includes/vg-library.php:149
+msgid "List view"
+msgstr ""
+
+#: videograph.php:100 videograph.php:101
+msgid "Live Recording"
+msgstr ""
+
+#: videograph.php:91 videograph.php:92
+msgid "Live Stream"
+msgstr ""
+
+#: includes/vg-library.php:194
+msgid "Resolution"
+msgstr ""
+
+#: includes/vg-library.php:176
+msgid "Search"
+msgstr ""
+
+#: includes/vg-library.php:57 includes/vg-live-recording-videos.php:45
+#: includes/vg-live-stream-videos.php:49
+msgid "Security check failed. Please try again."
+msgstr ""
+
+#: videograph.php:109 videograph.php:110 includes/vg-add-new-video.php:45
+msgid "Settings"
+msgstr ""
+
+#: includes/vg-library.php:195
+msgid "Status"
+msgstr ""
+
+#: includes/vg-library.php:192
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/vg-library.php:190
+msgid "Title"
+msgstr ""
+
+#: includes/vg-library.php:442
+msgid "Video Details"
+msgstr ""
+
+#: includes/vg-library.php:191
+msgid "Video ID"
+msgstr ""
+
+#: includes/vg-add-new-video.php:42
+msgid "Video uploaded successfully!"
+msgstr ""
+
+#. Name of the plugin
+msgid "videograph"
+msgstr ""
+
+#: videograph.php:53 videograph.php:54
+msgid "Videograph AI"
+msgstr ""
+
+#: includes/vg-library.php:142
+msgid "Videograph AI Library"
+msgstr ""
+
+#. Author of the plugin
+msgid "videograph.ai"
+msgstr ""
+
+#: videograph.php:64 videograph.php:65
+msgid "Videos"
+msgstr ""
